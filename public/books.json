@@ -1,0 +1,173 @@
+[
+   {
+      "id":1,
+      "name":"Harry Potter Collections",
+      "price":350,
+      "country":"UK",
+      "published_year":2015,
+      "writer":"JK Rowling",
+      "img":"https://d3525k1ryd2155.cloudfront.net/h/035/302/1332302035.0.x.jpg"
+   },
+   {
+      "id":2,
+      "name":"Python for Beginners",
+      "price":150,
+      "country":"Russia",
+      "published_year":2014,
+      "writer":"Denny Novikov",
+      "img":"https://m.media-amazon.com/images/I/41+l48O6TbL.jpg"
+   },
+   {
+      "id":3,
+      "name":"Javascript for Beginners",
+      "price":180,
+      "country":"U.S.A",
+      "published_year":2018,
+      "writer":"Nathan Clark",
+      "img":"https://m.media-amazon.com/images/I/41nDOCTqZ-L.jpg"
+   },
+   {
+      "id":4,
+      "name":"Algebra",
+      "price":120,
+      "country":"India",
+      "published_year":2017,
+      "writer":"SK Goyal",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/71wVt05P30L.jpg"
+   },
+   {
+      "id":5,
+      "name":"Basic Rules of Football",
+      "price":190,
+      "country":"UK",
+      "published_year":2008,
+      "writer":"Scott Murray",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/51BaNpy-WpL.jpg"
+   },
+   {
+      "id":6,
+      "name":"Anne Franks Diary",
+      "price":250,
+      "country":"Germany",
+      "published_year":2012,
+      "writer":"Anne Frank",
+      "img":"https://sydneyjewishmuseum.com.au/wp-content/uploads/2020/07/Diary-of-Anne-Frank-Books-to-Read-e1486839817195.jpg"
+   },
+   {
+      "id":7,
+      "name":"Ghostbusters",
+      "price":120,
+      "country":"U.S.A",
+      "published_year":1998,
+      "writer":"Larry Milne",
+      "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346638356l/1966874.jpg"
+   },
+   {
+      "id":8,
+      "name":"The Shinning",
+      "price":200,
+      "country":"U.S.A",
+      "published_year":1980,
+      "writer":"Stephen King",
+      "img":"https://hachette.imgix.net/books/9781473695498.jpg?auto=compress,format"
+   },
+   {
+      "id":9,
+      "name":"Calculus",
+      "price":170,
+      "country":"Australia",
+      "published_year":2016,
+      "writer":"Morris Kline",
+      "img":"https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9JLzUxQTZSYnpod0FMLl9TUzQwMF8uanBn.jpg"
+   },
+   {
+      "id":10,
+      "name":"Learn German",
+      "price":110,
+      "country":"Germany",
+      "published_year":2017,
+      "writer":"Lucas Jagger",
+      "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473424755l/31861782.jpg"
+   },
+   {
+      "id":11,
+      "name":"Tarzan",
+      "price":165,
+      "country":"U.S.A",
+      "published_year":1944,
+      "writer":"Edgar Rice Burroughs",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/81DVUvVL3zL.jpg"
+   },
+   {
+      "id":12,
+      "name":"Learn How to Draw",
+      "price":125,
+      "country":"UK",
+      "published_year":2013,
+      "writer":"Mark and Mary",
+      "img":"https://proactivecreative.b-cdn.net/wp-content/uploads/2019/09/drawing-for-the-absolute-beginner-by-mark-and-mary-willenbrink.jpg.webp"
+   },
+   {
+      "id":13,
+      "name":"Intermidiate Java",
+      "price":140,
+      "country":"South Africa",
+      "published year":2016,
+      "writer":"Brett Spell",
+      "img":"https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4302-0032-1"
+   },
+   {
+      "id":14,
+      "name":"Shawshank Redemption",
+      "price":300,
+      "country":"U.S.A",
+      "published_year":1982,
+      "writer":"Stephen King",
+      "img":"https://cdn.shopify.com/s/files/1/0057/3728/3618/products/26b09636b0ee91f08bea4ec4941fc63c_93098e4c-caa8-4c6f-b618-c10fbd03fb9f_480x.progressive.jpg?v=1573613738"
+   },
+   {
+      "id":15,
+      "name":"Carrie",
+      "price":220,
+      "country":"U.S.A",
+      "published_year":1981,
+      "writer":"Stephen King",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/916W3jMu+mL.jpg"
+   },
+   {
+      "id":16,
+      "name":"Cinderella",
+      "price":175,
+      "country":"U.S.A",
+      "published_year":1990,
+      "writer":"Brittany Candau",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/91uzq2mkxmL.jpg"
+   },
+   {
+      "id":17,
+      "name":"Snow White and Seven Dwarfs",
+      "price":130,
+      "country":"U.S.A",
+      "published_year":1985,
+      "writer":"Disney",
+      "img":"https://d3525k1ryd2155.cloudfront.net/h/589/257/1063257589.0.x.jpg"
+   },
+   {
+      "id":18,
+      "name":"History of Cricket",
+      "price":180,
+      "country":"Australia",
+      "published_year":2004,
+      "writer":"E.W Swanton",
+      "img":"https://www.sportspages.com/media/300x/img_565d6e8960aec.jpg"
+   },
+   {
+      "id":19,
+      "name":"C Programming",
+      "price":115,
+      "country":"U.S.A",
+      "published_year":2019,
+      "writer":"Darrel L. Graham",
+      "img":"https://images-na.ssl-images-amazon.com/images/I/51HTieS6nkL._SX342_SY445_QL70_ML2_.jpg"
+   }
+]
